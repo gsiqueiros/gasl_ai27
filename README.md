@@ -1,4 +1,3 @@
-# rickmortyAI27
 Evaluacion de Giovanny Adrian Siqueiros Lopez para AI27
 
 # giovanny_siqueiros_evaluation_app
