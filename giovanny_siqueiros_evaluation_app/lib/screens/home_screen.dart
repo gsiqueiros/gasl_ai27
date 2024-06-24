@@ -67,7 +67,7 @@ class _HomeScreenState extends State<HomeScreen> {
               padding: const EdgeInsets.all(8.0),
               child: TextField(
                 decoration: InputDecoration(
-                  labelText: 'Búsqueda por nombre',
+                  hintText: 'Búsqueda por nombre',
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(50),
                   ),
@@ -140,7 +140,7 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Padding(
                 padding: EdgeInsets.only(top: 20, bottom: 20),
                 child: Text(
-                  'Últimos vistos',
+                  'Últimos Vistos',
                   style: TextStyle(
                     decoration: TextDecoration.underline,
                     color: Colors.yellow,
